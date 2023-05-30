@@ -61,6 +61,11 @@ ul {
     text-decoration: none;
 }
 
+.header.link:hover,
+.header.link:focus {
+    color: #404bbf;
+}
+
 
 .header-address-link {
     font-family: 'Roboto';
