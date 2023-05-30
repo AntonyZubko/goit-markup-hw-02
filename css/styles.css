@@ -206,7 +206,7 @@ ul {
 }
 
 .footer.link {
-    font-family: "Raleway", sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -218,7 +218,7 @@ ul {
 }
 
 .footer-link-span {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
