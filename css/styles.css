@@ -13,9 +13,6 @@ ul {
 
 /* ----------_________________HEADER--------------------------------------- */
 
-.header {}
-
-.header-navigation {}
 
 .header-logo {
     font-family: 'Raleway';
@@ -38,9 +35,6 @@ ul {
     color: #4D5AE5;
 }
 
-.header-menu {}
-
-.header-menu-item {}
 
 .header-menu-link {
     font-family: 'Roboto';
