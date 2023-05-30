@@ -73,6 +73,11 @@ ul {
     text-decoration: none;
 }
 
+.header-address {
+    font-style: normal;
+}
+
+
 /* --------------------______________HERO-_______________----------- */
 
 .hero {
