@@ -241,7 +241,7 @@ ul {
 /* ---------------------------------------PORTFOLIO--------------------------------------------------- */
 
 .main-btn {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -249,6 +249,7 @@ ul {
     letter-spacing: 0.04em;
     color: #4D5AE5;
     background-color:#F4F4FD;
+    cursor: pointer;
 }
 
 .main-btn:hover,
@@ -258,6 +259,10 @@ ul {
 }
 
 /* --PROjects- */
+
+.list {
+    list-style: none;
+}
 
 .projects-subtitle {
     font-family: 'Roboto';
