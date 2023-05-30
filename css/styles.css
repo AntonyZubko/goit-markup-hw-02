@@ -22,7 +22,7 @@ ul {
 /* ----------_________________HEADER--------------------------------------- */
 
 
-.header-logo-link {
+.header-logo {
     font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -32,7 +32,10 @@ ul {
     letter-spacing: 0.03em;
     color: #4D5AE5;
     text-decoration: none;
+    
 }
+
+
 .header-logo-span {
     font-family: "Raleway", sans-serif;
     font-style: normal;
