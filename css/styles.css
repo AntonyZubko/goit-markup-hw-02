@@ -264,6 +264,10 @@ ul {
     list-style: none;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .projects-subtitle {
     font-family: 'Roboto';
     font-style: normal;
